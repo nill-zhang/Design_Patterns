@@ -1,4 +1,4 @@
-My implementation of design patterns while reading the following book:  
+My implementation of design patterns while reading the following books:  
 
 &#x1F4DA;`Design Patterns in Python`    by Alex Martelli(2007) http://www.aleax.it/gdd_pydp.pdf 
 
